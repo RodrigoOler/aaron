@@ -1,0 +1,19 @@
+{
+  "name": "aaron",
+  "version": "1.0.0",
+  "description": "Bot that interacts with chats like facebook messenger, skype, slack among others.",
+  "main": "index.js",
+  "repository": "https://github.com/RodrigoOler/aaron.git",
+  "author": "Rodrigo Oler <roodrigoprogrammer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.5.1",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-polyfill": "^6.20.0",
+    "babel-preset-stage-0": "^6.16.0"
+  }
+}
